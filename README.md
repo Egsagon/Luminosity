@@ -13,3 +13,4 @@ click-left = python3 /path/to/script.py
 ```
 
 By adding the path and the icon / text you want.
+Also have a great day
